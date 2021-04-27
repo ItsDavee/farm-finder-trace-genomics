@@ -31,7 +31,7 @@ We expect this project to take around 3-4 hours. As this is a short amount of ti
     - I would also spend more time making a more robust front end design
   
 - One more week
-    - If I had an additional week I would have build out a persistance layer and built a full rest api on top of that
+    - If I had an additional week I would have built out a persistance layer and built a full rest api on top of that
   
 
 

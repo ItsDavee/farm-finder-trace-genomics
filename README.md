@@ -29,6 +29,7 @@ We expect this project to take around 3-4 hours. As this is a short amount of ti
 - One more day
     - If I had an additional day I would have separated the FarmService into a FarmService and a FarmRepository to further separate the storage from the queries
     - I would also spend more time making a more robust front end design
+    - Add in error handling and test more than happy path requests
   
 - One more week
     - If I had an additional week I would have built out a persistance layer and built a full rest api on top of that

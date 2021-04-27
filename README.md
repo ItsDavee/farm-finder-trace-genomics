@@ -21,8 +21,8 @@ We expect this project to take around 3-4 hours. As this is a short amount of ti
     - Future direction if you had time to work on project for 1 more day? 1 more week?
   
 ### Instructions
-- To start the server run ```npm run start``` and then visit http://localhost:8000
-- Once the application is running you can run the test suite by running ```npm run tests```
+- To start the server run ```npm run start``` from inside the ```farm-app-fullstack``` directory and then visit http://localhost:8000
+- Once the application is running you can run the test suite by running ```npm run tests``` from the ```farm-app-fullstack``` directory.
 
 
 ### Future Direction
